@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_register_screen">RegisterScreen</string>
+    <string name="title_activity_admin_screen">AdminScreen</string>
+    <string name="title_activity_product_detail_screen">ProductDetailScreen</string>
+    <string name="title_activity_cart_screen">CartScreen</string>
+    <string name="title_activity_history">HistoryActivity</string>
+</resources>

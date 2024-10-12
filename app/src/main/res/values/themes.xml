@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar">
+
+        <item name="android:statusBarColor">#312F2E
+        </item> <!-- Đặt màu Status Bar thành trong suốt -->
+    </style>
+
+</resources>
